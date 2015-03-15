@@ -1,5 +1,5 @@
 /************************ utility.h ******************************************
-Student Name:Geofferson Camp    Student Number: 0658817 
+Student Name:Geofferson Camp    
 Date: March 13th, 2015         Course Name: cis2500
 
 I have exclusive control over this submission via my password.
